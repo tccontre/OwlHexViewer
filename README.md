@@ -6,5 +6,5 @@ pip install install colorama
 python3+
 
 #example view
-<img src="screenshots.png"> </img>
+<img src="screenshots.PNG"> </img>
 
