@@ -1,5 +1,5 @@
 # OwlHexViewer
-A basic commandline hex viewer in written in python. (just for learning stuff)
+A basic commandline hex viewer written in python. (just for learning stuff)
 
 #dependencies:
 pip install install colorama
